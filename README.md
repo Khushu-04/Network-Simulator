@@ -34,8 +34,9 @@ Users can easily visualize how devices interconnect and explore how routing work
 ## Screenshots
 
 | Network Topology Canvas | Routing Table View | Packet Flow Visualization |
-|:------------------------:|:------------------:|:--------------------------:|
-| [![Canvas Screenshot](screenshots/Screenshot_2025-11-12_145007.png)](screenshots/Screenshot_2025-11-12_145007.png) | [![Routing Table](screenshots/Screenshot_2025-11-12_145514.png)](screenshots/Screenshot_2025-11-12_145514.png) | [![Packet Flow](screenshots/Screenshot_2025-11-12_145323.png)](screenshots/Screenshot_2025-11-12_145323.png) |
+|--------------------------|--------------------|----------------------------|
+| ![Canvas](./screenshots/Screenshot_2025-11-12_145007.png) | ![Routing](./screenshots/Screenshot_2025-11-12_145514.png) | ![Flow](./screenshots/Screenshot_2025-11-12_145323.png) |
+
 
 ---
 
