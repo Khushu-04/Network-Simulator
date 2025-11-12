@@ -31,15 +31,6 @@ Users can easily visualize how devices interconnect and explore how routing work
 
 ---
 
-## Screenshots
-
-| Network Topology Canvas | Routing Table View | Packet Flow Visualization |
-|--------------------------|--------------------|----------------------------|
-| ![Canvas](./screenshots/Screenshot_2025-11-12_145007.png) | ![Routing](./screenshots/Screenshot_2025-11-12_145514.png) | ![Flow](./screenshots/Screenshot_2025-11-12_145323.png) |
-
-
----
-
 ## Technologies Used
 
 - ⚛️ **React (Vite)** — Fast and modern frontend framework  
